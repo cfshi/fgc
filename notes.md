@@ -36,6 +36,11 @@ Decisions:
 * We decided to run versionso our two main models, but without group level covariates. (Apr 20, 15)
 
 ---------------------------------------------------------------------
+For the coming meeting:
+
+* to use Sierra Leone 2008 or 2013?
+
+---------------------------------------------------------------------
 July 19:
 * We want to switch to brms (for fgc and mc; and we want to push this method in our projects in general).  
 * Use effect plots with baysina.  Since there is no standard way of doing p values, we will not going to do variable p-values.
