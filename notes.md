@@ -34,6 +34,7 @@ Decisions:
 * to include wealth, and education at the community level.
 * to make ethnicity a random because we don't need the power for the result.  We have enough levels for our reason; and we are not particularly interested in ethnicity for our study.  __BUT__ we latter decided to put it back as a fixed variable.
 * We decided to run versionso our two main models, but without group level covariates. (Apr 20, 15)
+* A longitudinal study of Sierra Leone:  2008 vs. 2013?
 
 ---------------------------------------------------------------------
 For the coming meeting:
